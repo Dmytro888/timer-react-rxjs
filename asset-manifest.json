@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/timer-react-rxjs/static/css/main.ec1dc111.chunk.css",
+    "main.js": "/timer-react-rxjs/static/js/main.6480c989.chunk.js",
+    "main.js.map": "/timer-react-rxjs/static/js/main.6480c989.chunk.js.map",
+    "runtime-main.js": "/timer-react-rxjs/static/js/runtime-main.2238b278.js",
+    "runtime-main.js.map": "/timer-react-rxjs/static/js/runtime-main.2238b278.js.map",
+    "static/js/2.ff0bc422.chunk.js": "/timer-react-rxjs/static/js/2.ff0bc422.chunk.js",
+    "static/js/2.ff0bc422.chunk.js.map": "/timer-react-rxjs/static/js/2.ff0bc422.chunk.js.map",
+    "index.html": "/timer-react-rxjs/index.html",
+    "static/css/main.ec1dc111.chunk.css.map": "/timer-react-rxjs/static/css/main.ec1dc111.chunk.css.map",
+    "static/js/2.ff0bc422.chunk.js.LICENSE.txt": "/timer-react-rxjs/static/js/2.ff0bc422.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2238b278.js",
+    "static/js/2.ff0bc422.chunk.js",
+    "static/css/main.ec1dc111.chunk.css",
+    "static/js/main.6480c989.chunk.js"
+  ]
+}
